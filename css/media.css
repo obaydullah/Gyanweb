@@ -1,0 +1,955 @@
+@media(min-width:1400px) and (max-width:1534px){
+    .course-l{
+        display: none !important;
+    }
+    .course-r{
+        display: none !important;
+    }
+}
+@media(min-width:1400px) and (max-width:1492px){
+    .left {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 25px;
+    }
+    .right {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 25px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1399px){
+    #banner{
+        overflow-x: hidden;
+    }
+    #about{
+        overflow-x: hidden;
+    }
+    #courses{
+        overflow-x: hidden;
+    }
+    #event{
+        overflow-x: hidden;
+    }
+    #testimonial{
+        overflow-x: hidden;
+    }
+    #teacher{
+        overflow-x: hidden;
+    }
+    #footer-one{
+        overflow-x: hidden;
+    }
+    .banner-cont {
+        margin-top: -102px;
+    }
+    .banner-cont h1 {
+        padding-bottom: 0px;
+    }
+    .ban-link {
+        margin-top: 25px;
+    }
+    .top-border-about {
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(-7px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+    }
+    .bottom-border-about {
+        transform: translateY(-85px);
+        -webkit-transform: translateY(-85px);
+        -moz-transform: translateY(-70px);
+        -ms-transform: translateY(-85px);
+        -o-transform: translateY(-85px);
+    }
+    #about .slick-dots {
+        bottom: 55px;
+    }
+    .about-btn {
+        margin-top: 45px;
+    }
+    .pb-calendar .top-frame {
+        width: 242px;
+    }
+    .t-r{
+        display: none !important;
+    }
+    .t-l{
+        display: none !important;
+    }
+    .course-l{
+        display: none !important;
+    }
+    .course-r{
+        display: none !important;
+    }
+    .main-blog-text {
+        margin-top: 106px;
+    }
+    .second-blog-cols .main-blog-text {
+        margin-top: 3px;
+    }
+    .second-blog-cols .main-blog-text p {
+        font-size: 15px;
+    }
+    .right-contact a {
+        padding-right: 0px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+    #banner{
+        overflow-x: hidden;
+    }
+    #about{
+        overflow-x: hidden;
+    }
+    #courses{
+        overflow-x: hidden;
+    }
+    #event{
+        overflow-x: hidden;
+    }
+    #testimonial{
+        overflow-x: hidden;
+    }
+    #teacher{
+        overflow-x: hidden;
+    }
+    #footer-one{
+        overflow-x: hidden;
+    }
+    .btn button {
+        margin-left: 78px;
+        font-size: 14px;
+    }
+    .banner-cont h4 {
+        font-size: 30px;
+    }
+    .ban-link a {
+        font-size: 20px;
+        padding: 15px 13px;
+    }
+    .ban-link {
+        margin-top: 19px;
+    }
+    .banner-cont p {
+        font-size: 14px;
+        padding-right: 0;
+        line-height: 20px;
+    }
+    .banner-cont h1 {
+        font-size: 30px;
+        padding-bottom: 6px;
+    }
+    .banner-cont {
+        margin-top: -93px;
+    }
+    .left {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+    }
+    .right {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+    }
+    .about-btn {
+        margin-top: 45px;
+    }
+    .about-btn a {
+        font-size: 14px;
+        padding: 17px 27px;
+    }
+    .about-content p {
+        padding-right: 0px;
+    }
+    .top-border-about {
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(-17px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+    }
+    .bottom-border-about {
+        transform: translateY(-85px);
+        -webkit-transform: translateY(-85px);
+        -moz-transform: translateY(-61px);
+        -ms-transform: translateY(-85px);
+        -o-transform: translateY(-85px);
+    }
+    .feed-details h3 {
+        font-size: 20px;
+    }
+    .course-l{
+        display: none !important;
+    }
+    .course-r{
+        display: none !important;
+    }
+    .pb-calendar .top-frame {
+        width: 152px;
+    }
+    .pb-calendar .top-frame > .control-frame {
+        width: 27%;
+        margin-right: 9px;
+        margin-top: -45px;
+    }
+    .event-slider-content h3 {
+        padding-right: 0px;
+    }
+    .header p {
+        padding: 0 113px;
+        padding-bottom: 58px;
+    }
+    .event-slider-content p {
+        padding-right: 0px;
+    }
+    .t-r{
+        display: none !important;
+    }
+    .t-l{
+        display: none !important;
+    }
+    .testimonial-cont-slider {
+        padding-top: 37px;
+    }
+    .accordion-button {
+        font-size: 15px;
+    }
+    .main-blog-text {
+        margin-top: 42px;
+    }
+    .second-blog-cols .main-blog-text {
+        margin-top: 9px;
+    }
+    .second-blog-cols .main-blog-text p {
+        font-size: 13px;
+    }
+    .second-blog-cols .blog-social i {
+        width: 21px;
+        height: 21px;
+        line-height: 21px;
+        font-size: 13px;
+    }
+    .blog-social {
+        margin-top: -31px;
+    }
+    .right-list {
+        padding-top: 45px;
+        padding-right: 4px;
+    }
+    .right-contact a {
+        padding-right: 0px;
+    }
+}
+
+
+
+@media(min-width:768px) and (max-width:991px){
+    #banner{
+        overflow-x: hidden;
+    }
+    #about{
+        overflow-x: hidden;
+    }
+    #courses{
+        overflow-x: hidden;
+    }
+    #event{
+        overflow-x: hidden;
+    }
+    #testimonial{
+        overflow-x: hidden;
+    }
+    #teacher{
+        overflow-x: hidden;
+    }
+    #footer-one{
+        overflow-x: hidden;
+    }
+    .trouble a {
+        font-size: 12px;
+    }
+    .sign-up-topbar a {
+        font-size: 12px;
+    }
+    .navbar-brand {
+        transform: scale(0.8);
+        margin-top: -21px;
+        -webkit-transform: scale(0.8);
+        -moz-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        -o-transform: scale(0.8);
+}
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-left: 20px;
+        font-size: 14px;
+        margin-top: 27px;
+        margin-bottom: 20px;
+
+    }
+    .btn button {
+        font-size: 14px;
+        padding: 13px 14px;
+        margin-left: 30px;
+        margin-top: 14px;
+    }
+    .banner-cont h1 {
+        font-size: 23px;
+        padding-bottom: 8px;
+    }
+    .banner-cont h4 {
+        font-size: 20px;
+    }
+    .banner-cont p {
+        font-size: 15px;
+        padding-right: 160px;
+        line-height: 18px;
+    }
+    .ban-link {
+        margin-top: 50px;
+    }
+    .main-det {
+        margin-top: 53px;
+    }
+    .item-det {
+        padding: 18px 27px;
+        margin: 0 8px;
+    }
+    .ban-link a {
+        font-size: 15px;
+        padding: 15px 17px;
+    }
+    .header p {
+        padding-bottom: 32px;
+    }
+    #about .slick-dots {
+        bottom: 66px;
+    }
+    .counnters p {
+        font-size: 22px;
+    }
+    .feed-details h3 {
+        font-size: 23px;
+    }
+    .feed-details p {
+        font-size: 14px;
+        padding-right: 0px;
+    }
+    .pb-calendar .top-frame {
+        width: 392px;
+    }
+    .event-btn {
+        padding-top: 90px;
+    }
+    #event {
+        padding-bottom: 40px;
+    }
+    .event-slider {
+        margin-top: 50px;
+    }
+    .testimonial-cont-slider {
+        padding-top: 60px;
+    }
+    .main-accrdion {
+        margin-top: 60px;
+    }
+    .teacher-social-link i {
+        width: 27px;
+        height: 27px;
+        margin: 0 1px;
+        line-height: 27px;
+    }
+    .teachers-all:hover .teacher-social-link {
+        margin-top: -17px;
+    }
+    .main-blog-text {
+        margin-top: -20px;
+    }
+    .blog-social i {
+        width: 27px;
+        height: 27px;
+        line-height: 27px;
+    }
+    .blog-text h4 {
+        font-size: 15px;
+    }
+    .blog-social {
+        margin-top: -20px;
+    }
+    .right-list {
+        padding-right: 35px;
+    }
+    .second-blog-cols .mid-one {
+        margin-top: 74px;
+    }
+    .second-blog-cols .last-one {
+        margin-top: 73px;
+    }
+}
+
+
+@media (max-width:767px) and (min-width:576px){
+    #banner{
+        overflow-x: hidden;
+    }
+    #about{
+        overflow-x: hidden;
+    }
+    #courses{
+        overflow-x: hidden;
+    }
+    #event{
+        overflow-x: hidden;
+    }
+    #testimonial{
+        overflow-x: hidden;
+    }
+    #teacher{
+        overflow-x: hidden;
+    }
+    #footer-one{
+        overflow-x: hidden;
+    }
+    .trouble a {
+        font-size: 12px;
+    }
+    .sign-up-topbar a {
+        font-size: 12px;
+    }
+    .navbar-brand {
+        transform: scale(0.6);
+        margin-top: -16px;
+        -webkit-transform: scale(0.6);
+        -moz-transform: scale(0.6);
+        -ms-transform: scale(0.6);
+        -o-transform: scale(0.6);
+    }
+    .navbar-toggler {
+        margin-top: -4px;
+    }
+    .nav-link {
+        padding-left: 0 !important; 
+        text-align: center !important;
+        margin-top: 29px !important;
+        margin-bottom: -8px !important;
+    }
+    .btn button {
+        margin-left: 0px;
+        padding: 13px 185px;
+    }
+    .banner-cont h1 {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+    .banner-cont h4 {
+        font-size: 20px;
+    }
+    .banner-cont {
+        text-align: center;
+    }
+    .ban-link {
+        margin-top: 0px;
+    }
+    .ban-link a {
+        font-size: 14px;
+        padding: 13px 13px;
+    }
+    .main-det {
+        margin-top: 30px;
+        flex-direction: column;
+    }
+    .item-det {
+        margin: 0 auto;
+      }
+      .header p {
+        padding: 0;
+        padding-bottom: 38px;
+    }
+    .top-border-about {
+        transform: translateY(-13px) !important;
+        -webkit-transform: translateY(-13px) !important;
+        -moz-transform: translateY(-13px) !important;
+        -ms-transform: translateY(-13px) !important;
+        -o-transform: translateY(-13px) !important;
+}
+    .bottom-border-about {
+        transform: translateY(-68px) !important;
+        -webkit-transform: translateY(-68px) !important;
+        -moz-transform: translateY(-68px) !important;
+        -ms-transform: translateY(-68px) !important;
+        -o-transform: translateY(-68px) !important;
+}
+    .about-content {
+        text-align: center;
+    }
+    .about-content p {
+        padding-right: 0;
+    }
+    #about .slick-dots {
+        bottom: 46px;
+    }
+    .btm-bordr {
+        margin-bottom: 30px;
+    }
+    #courses {
+        padding-top: 35px;
+        padding-bottom: 30px;
+    }
+    .feed-img {
+        margin: 0 auto;
+    }
+    .feed-name {
+        text-align: center;
+    }
+    .ratings-feed {
+        text-align: center !important;
+    }
+    .feed-details h3 {
+        text-align: center!important;
+        font-size: 20px;
+    }
+    .feed-details p {
+        padding-right: 0;
+        text-align: center;
+    }
+    .course-btn a {
+        padding: 12px 21px;
+    }
+    .main-cal {
+        padding: 19px 13px 24px 13px;
+        margin-bottom: 53px;
+    }
+    .pb-calendar .top-frame {
+        width: 253px;
+        float: none; 
+        margin-top: -9px;
+    }
+    .pb-calendar h2 {
+        margin-bottom: 10px;
+        font-size: 19px;
+    }
+    .pb-calendar > .calendar-body-frame > .row > .col, .pb-calendar > .calendar-head-frame > .row > .col {
+        font-size: 11px;
+        line-height: 60px;
+        height: 60px;
+    }
+    .pb-calendar .top-frame {
+        width: 100%;
+    }
+    .event-slider-content h3 {
+        padding-right: 0px;
+        padding-top: 5px;
+    }
+    .event-slider-content p {
+        padding-right: 0px;
+        line-height: 20px;
+    }
+    .event-btn {
+        margin-bottom: 17px;
+        
+    }
+    #event {
+        padding-bottom: 25px;
+    }
+    .testimonial-cont-slider {
+        padding-top: 33px;
+    }
+    .main-accrdion {
+        margin-top: 45px;
+    }
+    .blog-social a {
+        display: inline-block;
+        margin: 0;
+    }
+    .blog-social.text-end {
+        text-align: center !important;
+    }
+    .b-inner-ovr {
+        padding: 13px;
+    }
+    .blog-social i {
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .main-blog-text {
+        margin-top: 0px;
+    }
+    .date-blog span, .views-box span {
+        font-size: 8px;
+    }
+    .blog-text h4 {
+        text-align: center;
+    }
+    .blog-text a {
+        display: block;
+        text-align: center;
+    }
+    .btm-blog-text {
+        padding-top: 2px;
+    }
+    .date-blog span, .views-box span {
+        font-size: 8px;
+    }
+    .date-blog span, .views-box span {
+        font-size: 8px;
+    }
+    .blog-social{
+        display: none;
+    }
+    .btm-blog-text {
+        display: none !important;
+    }
+
+    .second-blog-cols .blog-social a {
+        display: inline-block;
+        margin: 0;
+    }
+    .second-blog-cols .main-blog-text {
+        margin-top: 0px;
+    }
+    .second-blog-cols .mid-one {
+        margin-top: 0px;
+    }
+    .second-blog-cols .last-one {
+        margin-top: 0px;
+    }
+    .second-blog-cols .main-blog-text p {
+        text-align: center;
+    }
+    .sticky-menu .nav-link{
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+    }
+}
+
+
+@media (max-width:575.98px){
+    #banner{
+        overflow-x: hidden;
+    }
+    #about{
+        overflow-x: hidden;
+    }
+    #courses{
+        overflow-x: hidden;
+    }
+    #event{
+        overflow-x: hidden;
+    }
+    #testimonial{
+        overflow-x: hidden;
+    }
+    #teacher{
+        overflow-x: hidden;
+    }
+    #footer-one{
+        overflow-x: hidden;
+    }
+    .trouble a {
+        font-size: 12px;
+    }
+    .sign-up-topbar a {
+        font-size: 12px;
+    }
+    .navbar-brand {
+        transform: scale(0.6);
+        margin-top: -16px;
+        -webkit-transform: scale(0.6);
+        -moz-transform: scale(0.6);
+        -ms-transform: scale(0.6);
+        -o-transform: scale(0.6);
+    }
+    .navbar-toggler {
+        margin-top: -4px;
+    }
+    .nav-link {
+        padding-left: 0px!important; 
+        text-align: center;
+        margin-top: 29px!important;
+        margin-bottom: -8px!important;
+    }
+    .sticky-menu .nav-link{
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+    }
+    .btn button {
+        margin-left: 0px;
+    }
+    .main-det {
+        margin-top: 0px;
+    }
+    .banner-cont h4 {
+        font-size: 14px;
+        text-align: center;
+    }
+    .banner-cont h1 {
+        font-size: 15px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .ban-link {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .ban-link a {
+        font-size: 10px;
+        padding: 9px 8px;
+    }
+    .main-det {
+        flex-direction: column;
+    }
+    .item-det {
+        width: 296px;
+        padding: 9px 1px;
+        margin: 15px 0;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 55px;
+    }
+    .header h2 {
+        font-size: 25px;
+    }
+    .header p {
+        padding: 0px; 
+        padding-bottom: 75px;
+    }
+    .top-border-about {
+        transform: translateY(-39px)!important;
+        -webkit-transform: translateY(-39px)!important;
+        -moz-transform: translateY(-39px)!important;
+        -ms-transform: translateY(-39px)!important;
+        -o-transform: translateY(-39px)!important;
+}
+    .bottom-border-about {
+        transform: translateY(-41px)!important;
+        -webkit-transform: translateY(-41px)!important;
+        -moz-transform: translateY(-41px)!important;
+        -ms-transform: translateY(-41px)!important;
+        -o-transform: translateY(-41px)!important;
+}
+    #about .slick-dots {
+        display: none!important;
+    }
+    .about-content p {
+        font-size: 13px;
+        line-height: 21px;
+        padding-right: 2px;
+    }
+    .about-btn {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .about-btn a {
+        font-size: 16px;
+        padding: 17px 16px;
+    }
+    .btm-bordr {
+        margin-bottom: 30px;
+    }
+    #courses {
+        padding-top: 35px;
+        padding-bottom: 30px;
+    }
+    .feed-img {
+        margin: 0 auto;
+    }
+    .feed-name {
+        text-align: center;
+    }
+    .ratings-feed {
+        text-align: center !important;
+    }
+    .feed-details h3 {
+        text-align: center!important;
+        font-size: 20px;
+    }
+    .feed-details p {
+        padding-right: 0;
+        text-align: center;
+    }
+    .course-btn a {
+        padding: 12px 21px;
+    }
+    .main-cal {
+        padding: 19px 13px 24px 13px;
+        margin-bottom: 53px;
+    }
+    .pb-calendar .top-frame {
+        width: 253px;
+        float: none; 
+        margin-top: -9px;
+    }
+    .pb-calendar h2 {
+        margin-bottom: 10px;
+        font-size: 19px;
+    }
+    .pb-calendar > .calendar-body-frame > .row > .col, .pb-calendar > .calendar-head-frame > .row > .col {
+        font-size: 11px;
+        line-height: 40px;
+        height: 40px;
+    }
+    .event-slider-content h3 {
+        padding-right: 0px;
+        padding-top: 5px;
+    }
+    .event-slider-content p {
+        padding-right: 0px;
+        line-height: 20px;
+    }
+    .event-btn {
+        margin-bottom: 17px;
+        
+    }
+    #event {
+        padding-bottom: 25px;
+    }
+    #testimonial .header p {
+        padding-bottom: 15px;
+    }
+    .main-accrdion {
+        margin-top: 80px;
+    }
+    .accordion-body p {
+        padding-right: 0px;
+        font-size: 13px;
+    }
+    .accordion-button {
+        font-size: 15px;
+    }
+    .blog-social a {
+        display: inline-block;
+        margin: 0;
+    }
+    .blog-social.text-end {
+        text-align: center !important;
+    }
+    .b-inner-ovr {
+        padding: 13px;
+    }
+    .blog-social i {
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        line-height: 25px;
+        font-size: 14px;
+    }
+    .main-blog-text {
+        margin-top: 70px;
+    }
+    .date-blog span, .views-box span {
+        font-size: 8px;
+    }
+    .blog-text h4 {
+        text-align: center;
+    }
+    .blog-text a {
+        display: block;
+        text-align: center;
+    }
+    .btm-blog-text {
+        padding-top: 2px;
+    }
+    .date-blog span, .views-box span {
+        font-size: 8px;
+    }
+    .date-blog span, .views-box span {
+        font-size: 8px;
+    }
+    .blog-social{
+        display: none;
+    }
+    .btm-blog-text {
+        display: none !important;
+    }
+
+    .second-blog-cols .blog-social a {
+        display: inline-block;
+        margin: 0;
+    }
+    .second-blog-cols .main-blog-text {
+        margin-top: 80px;
+    }
+    .second-blog-cols .mid-one {
+        margin-top: 75px;
+    }
+    .second-blog-cols .last-one {
+        margin-top: 90px;
+    }
+    .second-blog-cols .main-blog-text p {
+        text-align: center;
+    }
+    .f-left-cont p {
+        padding-right: 0px;
+        text-align: center;
+    }
+    .f-logo {
+        text-align: center;
+    }
+    .footer-social-icons {
+        text-align: center;
+    }
+    .footer-header h4 {
+        font-size: 17px;
+        text-align: center;
+    }
+    .footer-header {
+        padding-top: 30px;
+    }
+    .main-footer-list {
+        flex-direction: column;
+    }
+    .left-list {
+        text-align: center !important;
+    }
+    .right-list {
+        padding-top: 0px;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .ft-contact {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .right-contact p {
+        padding-top: 13px;
+    }
+    .right-contact {
+        text-align: center;
+    }
+    .right-contact a {
+        padding-right: 0;
+    }
+    @media(min-width:340px) and (max-width:575px){
+        .item-det {
+          margin: 0 auto;
+        }
+        .main-det {
+            margin-top: 15px;
+        }
+        .main-blog-text {
+            margin-top: 0px;
+        }
+        .second-blog-cols .main-blog-text {
+            margin-top: 0px;
+        }
+        .second-blog-cols .mid-one {
+            margin-top: 0px;
+        }
+        .second-blog-cols .last-one {
+            margin-top: 0px;
+        }
+    }
+}
